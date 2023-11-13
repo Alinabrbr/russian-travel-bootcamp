@@ -1,0 +1,13 @@
+.two-columns {
+  display: grid;
+  grid-template-columns: 460px minmax(484px, auto);
+  grid-template-rows: min-content 460px;
+  gap: 48px 40px;
+  margin-bottom: 80px;
+  padding-left: 148px;
+  padding-right: 148px;
+}
+
+.two-columns:last-of-type {
+  margin-bottom: 0;
+}

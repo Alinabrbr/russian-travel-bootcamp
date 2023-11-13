@@ -1,0 +1,15 @@
+.two-columns__link {
+  font-family: Inter, sans-serif;
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 1.22;
+  text-decoration-line: underline;
+  text-underline-offset: 5px;
+  text-decoration-thickness: 1.3px;
+  color: #fff;
+  transition: opacity .3s;
+}
+
+.two-columns__link:hover {
+  opacity: 0.8;
+}

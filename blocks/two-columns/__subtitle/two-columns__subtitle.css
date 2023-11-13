@@ -1,0 +1,9 @@
+.two-columns__subtitle {
+  color: #aaa;
+  font-family: Inter, sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+  line-height: 1.0;
+  letter-spacing: 2px;
+  margin: 0 0 12px
+}

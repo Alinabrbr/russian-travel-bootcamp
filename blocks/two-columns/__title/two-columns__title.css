@@ -1,0 +1,9 @@
+.two-columns__title {
+  max-width: 460px;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Inter,sans-serif;
+  font-size: 72px;
+  font-weight: 900;
+  line-height: 1.05;
+}
