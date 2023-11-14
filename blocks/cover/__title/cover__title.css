@@ -8,3 +8,12 @@
   font-weight: 900;
   line-height: 1.05;
 }
+
+@media (min-width: 320px) and (max-width: 767px) {
+
+  .cover__title {
+    max-width: 320px;
+    font-size: 32px;
+    line-height: 1.09;
+  }
+}

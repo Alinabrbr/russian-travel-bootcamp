@@ -8,3 +8,11 @@
   line-height: 1.22;
   margin: 0;
 }
+
+@media (min-width: 320px) and (max-width: 767px) {
+
+  .cover__subtitle {
+    font-size: 14px;
+    line-height: 1.14;
+  }
+}

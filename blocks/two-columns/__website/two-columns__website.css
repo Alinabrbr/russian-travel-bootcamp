@@ -3,3 +3,11 @@
   flex-direction: column;
   justify-content: end;
 }
+
+@media (min-width: 320px) and (max-width: 767px) {
+
+  .two-columns__website {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}

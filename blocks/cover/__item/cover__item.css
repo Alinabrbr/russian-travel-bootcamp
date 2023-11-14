@@ -9,8 +9,28 @@
   row-gap: 32px;
   transition: background-color .5s;
   background-color: rgba(42, 44, 47, 0.3);
+  padding-top: 21%;
+  padding-bottom: 21%;
 }
 
 .cover__item:hover {
   background-color: rgba(42, 44, 47, 0.8);
+}
+
+@media (max-width: 1024px) {
+  .cover__item {
+    padding-top: 19%;
+    padding-bottom: 19%;
+  }
+}
+
+@media (max-width: 768px) {
+
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+  .cover__item {
+    padding-top: 10%;
+    padding-bottom: 5%;
+  }
 }

@@ -13,3 +13,10 @@
 .two-columns__link:hover {
   opacity: 0.8;
 }
+
+@media (min-width: 320px) and (max-width: 767px) {
+
+  .two-columns__link {
+    margin-bottom: 32px;
+  }
+}

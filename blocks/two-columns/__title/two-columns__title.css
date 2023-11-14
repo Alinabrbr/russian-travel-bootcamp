@@ -7,3 +7,29 @@
   font-weight: 900;
   line-height: 1.05;
 }
+
+@media (max-width: 985px) {
+
+  .two-columns__title {
+    font-size: 55px;
+  }
+}
+
+@media (max-width: 768px) {
+
+  .two-columns__title {
+    font-size: 42px;
+  }
+}
+
+
+@media (min-width: 320px) and (max-width: 767px) {
+
+  .two-columns__title {
+    font-size: 32px;
+    padding-left: 16px;
+    padding-right: 16px;
+    line-height: 1.09;
+    margin-bottom: 32px;
+  }
+}

@@ -1,7 +1,0 @@
-.two-columns__left-column {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  min-width: 460px;
-  max-height: max-content;
-}
