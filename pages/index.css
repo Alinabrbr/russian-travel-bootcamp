@@ -17,7 +17,7 @@
 @import url("../blocks/description/__title/description__title.css");
 @import url("../blocks/description/__span-accent/description__span-accent.css");
 @import url("../blocks/description/__span-accent/_case/description__span-accent_case.css");
-@import url("../blocks/description/__span-accent/_case/_upper/description__span-accent_case_upper.css");
+@import url("../blocks/description/__span-accent/_case/description__span-accent_case_upper.css");
 
 @import url("../blocks/footer/footer.css");
 @import url("../blocks/footer/__author/footer__author.css");
