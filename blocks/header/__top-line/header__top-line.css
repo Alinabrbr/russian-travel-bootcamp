@@ -13,17 +13,9 @@
   }
 }
 
-@media (max-width: 768px) {
-
-  .header__top-line {
-    margin-bottom: 48px;
-  }
-}
-
 @media (min-width: 320px) and (max-width: 767px) {
 
   .header__top-line {
     margin-top: 16px;
-    margin-bottom: 48px;
   }
 }

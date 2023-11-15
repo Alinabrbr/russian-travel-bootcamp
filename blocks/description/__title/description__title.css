@@ -6,8 +6,7 @@
   line-height: 1.07;
 }
 
-@media (max-width: 768px) {
-
+@media (max-width: 850px) {
   .description__title {
     margin-top: 88px;
   }

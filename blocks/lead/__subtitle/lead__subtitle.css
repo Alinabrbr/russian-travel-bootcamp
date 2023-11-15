@@ -6,19 +6,23 @@
   font-weight: normal;
   line-height: 1.2;
   margin: 0 auto 64px;
+  padding-left: 148px;
+  padding-right: 148px;
 }
 
 @media (max-width: 1024px) {
 
   .lead__subtitle {
     margin-bottom: 56px;
+    padding-left: 48px;
+    padding-right: 48px;
   }
 }
 
-@media (max-width: 768px) {
-
+@media (max-width: 860px) {
   .lead__subtitle {
-    margin-bottom: 56px;
+    padding-left: 24px;
+    padding-right: 24px;
   }
 }
 
@@ -28,5 +32,7 @@
     font-size: 16px;
     margin-bottom: 40px;
     line-height: 1.25;
+    padding-left: 16px;
+    padding-right: 16px;
   }
 }

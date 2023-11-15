@@ -22,20 +22,3 @@
   }
 }
 
-@media (max-width: 768px) {
-
-  .cover {
-    margin-left: auto;
-    margin-right: auto;
-  }
-}
-
-@media (min-width: 320px) and (max-width: 767px) {
-
-  .cover {
-    padding-left: 0;
-    padding-right: 0;
-    margin-left: auto;
-    margin-right: auto;
-  }
-}

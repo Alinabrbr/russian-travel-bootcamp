@@ -12,22 +12,17 @@
   }
 }
 
-@media (max-width: 985px) {
+@media (max-width: 768px) {
 
   .description {
+    margin-left: 0;
+    margin-right: 0;
     padding-left: 24px;
     padding-right: 24px;
   }
 }
 
-@media (max-width: 768px) {
-
-  .description {
-    margin: 0;
-  }
-}
-
-@media (min-width: 320px) and (max-width: 767px) {
+@media (max-width: 320px) {
 
   .description {
     margin-right: 16px;
